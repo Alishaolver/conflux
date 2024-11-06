@@ -1,11 +1,12 @@
 browsers:
 - name: chrome
   version: latest
-- name: firefox
+- name: google
   version: latest
-- name: safari
+- name: gmail
   version: latest
 - name: microsoftedge
   version: latest
-- name: iphone
+- name: nokiac110
+
   version: latest
